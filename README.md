@@ -1,27 +1,23 @@
-# 👨🏻‍💻 Porfolio para programadores y desarrolladores
+# 🌟 Bienvenido a mi Portfolio
 
-<div align="center">
-<a href="https://porfolio.dev/">
-<img src="./public/porfolio.webp">
-</a>
-<p></p>
-</div>
+¡Hola! Soy Jean Lavaud, un apasionado de la programación y el desarrollo de soluciones tecnológicas que hacen la vida más fácil. En este espacio, puedes explorar mis proyectos, mis logros y todo lo relacionado con mi carrera como desarrollador.
 
-<div align="center">
+## 🚀 Sobre Mí
 
-![Astro Badge](https://img.shields.io/badge/Astro-FF3E00?logo=astro&logoColor=fff&style=flat)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/porfolio.dev)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/porfolio.dev)
-![GitHub forks](https://img.shields.io/github/forks/midudev/porfolio.dev)
-![GitHub issues](https://img.shields.io/github/issues/midudev/porfolio.dev)
+Soy estudiante de **Ingeniería de Software** en la universidad, actualmente en el séptimo ciclo. Mi enfoque principal está en la **automatización** y la **visualización interactiva de datos**, siempre buscando cómo mejorar la eficiencia y ayudar en la toma de decisiones a través de la tecnología.
 
-</div>
+A lo largo de mi camino académico, he tenido la oportunidad de colaborar en proyectos interesantes y participar activamente en **grupos de trabajo** y **conferencias**, lo que me ha permitido desarrollar tanto habilidades técnicas como interpersonales. Fuera del ámbito académico, me encanta contribuir a proyectos **open source** para resolver problemas reales y mejorar procesos mediante la automatización.
 
-## 🫂 Contribuidores
 
-<a href="https://github.com/midudev/porfolio.dev/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=midudev/porfolio.dev" />
-</a>
+## 📚 Mi Filosofía
 
-<p></p>
+Creo que la tecnología tiene el poder de **transformar la manera en que vivimos y trabajamos**. Mi objetivo es crear soluciones que **automatizan procesos** y generen un **impacto positivo** en el día a día de las personas.
+
+## 🌐 Conecta Conmigo
+
+Si te interesa alguna de mis ideas, proyectos o si simplemente quieres ponerte en contacto, ¡no dudes en conectarte conmigo!
+
+- **GitHub**: [@JeanLavaud](https://github.com/MrSquatch/)
+- **LinkedIn**: [Jean Lavaud](https://www.linkedin.com/in/jean-lavaud-guevara-1296141b2/)
+
+Gracias por visitar mi portfolio. ¡Espero que disfrutes explorando!
